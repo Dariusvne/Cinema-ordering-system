@@ -1,0 +1,13 @@
+{
+  "MoviePrice": 0,
+  "PopcornPrices": {
+    "Small": 2.5,
+    "Medium": 3,
+    "Large": 3.5
+  },
+  "DrinksPrices": {
+    "Small": 2.5,
+    "Medium": 3,
+    "Large": 3.5
+  }
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "Name": "Eniek van der Werff",
+    "Rating": 1,
+    "Text": "This place sucks"
+  },
+  {
+    "Name": "Albert Einstein",
+    "Rating": 5,
+    "Text": "This piece of software is more important than general relativity"
+  },
+  {
+    "Name": "Niel Armweak",
+    "Rating": 4,
+    "Text": "I wish I was sent here instead of the moon"
+  },
+  {
+    "Name": "Nicola Tesla",
+    "Rating": 4,
+    "Text": "This is the reason I invented electricity"
+  },
+  {
+    "Name": "Rebecca van Spek",
+    "Rating": 2,
+    "Text": "This popcorn could taste better"
+  },
+  {
+    "Name": "Karen Whitewash",
+    "Rating": 3,
+    "Text": "I saw Albert Einstein! it was so cool"
+  },
+  {
+    "Name": "Johan",
+    "Rating": 5,
+    "Text": "Analysis is so boring compared to this cinema"
+  },
+  {
+    "Name": "Kees van Meer",
+    "Rating": 3,
+    "Text": "Was a little hard finding where it is"
+  }
+]

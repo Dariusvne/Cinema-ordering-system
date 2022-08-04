@@ -1,0 +1,37 @@
+[
+    {
+	"Firstname": "Nino",
+	"Lastname": "Reichardt",
+	"Creditcard": "123412341234",
+	"Email": "1038779@hr.nl",
+	"Password": "newpwabc"
+    },
+    {
+	"Firstname": "Henk",
+	"Lastname": "De Vis",
+	"Creditcard": "123412341234",
+	"Email": "henkdevis@hotmail.com",
+	"Password": "henkyspanky"
+    },
+    {
+	"Firstname": "MEMBER TESTING ACCOUNT",
+	"Lastname": "foo",
+	"Creditcard": "123412341234",
+	"Email": "member",
+	"Password": "member123"
+    },
+    {
+	"Firstname": "Catering",
+	"Lastname": "superawesome",
+	"Creditcard": "123412341234",
+	"Email": "catering",
+	"Password": "catering"
+    },
+    {
+	"Firstname": "admin",
+	"Lastname": "superawesome",
+	"Creditcard": "123412341234",
+	"Email": "admin",
+	"Password": "admin"
+    }
+]
