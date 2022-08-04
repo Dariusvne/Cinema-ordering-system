@@ -4,18 +4,18 @@ This is the github repo for a Console Application that we have to make for schoo
 to easily buy tickets to a (non-existent) cinema. 
 
 ### TODO-list
-- [ ] Member Menus  
-  - [ ] Seats Menu
-    - [ ] Make selected seats stay when user goes back to seats menu from the overview menu
-  - [ ] Overview Menu
-    - [ ] Show price of popcorn
-	- [ ] Make the popcorn choser more user friendly
-- [ ] Admin Menus  
-  - [ ] Earnings Menu
-  - [ ] Reviews Menu
-    - [ ] Fix bug where program crashes when the are no reviews and admin pressed enter
-    - [ ] ?? Add "Are you sure you want to delete the review?" popup
-- [ ] Catering Menus  
+- [x] Member Menus  
+  - [x] Seats Menu
+    - [x] Make selected seats stay when user goes back to seats menu from the overview menu
+  - [x] Overview Menu
+    - [x] Show price of popcorn
+	- [x] Make the popcorn choser more user friendly
+- [x] Admin Menus  
+  - [x] Earnings Menu
+  - [x] Reviews Menu
+    - [x] Fix bug where program crashes when the are no reviews and admin pressed enter
+    - [x] ?? Add "Are you sure you want to delete the review?" popup
+- [x] Catering Menus  
   
 
 ### Completed
