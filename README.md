@@ -3,6 +3,8 @@
 This is the github repo for a Console Application that we have to make for school. Our applications allows users
 to easily buy tickets to a (non-existent) cinema. 
 
+DEMO VIDEO: https://www.youtube.com/watch?v=lD3BxdsBtNk&ab_channel=dariusvanessen
+
 ### TODO-list
 - [x] Member Menus  
   - [x] Seats Menu
